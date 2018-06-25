@@ -1,0 +1,1 @@
+Durante a compilação, para adicionar o arquivo programa.jar ao classpath, devemos usar -cp programa.jar e, para especificar o arquivo adequado, usamos b/A.java. A opção que apresenta essas duas características é javac -cp programa.jar:. b/A.java.

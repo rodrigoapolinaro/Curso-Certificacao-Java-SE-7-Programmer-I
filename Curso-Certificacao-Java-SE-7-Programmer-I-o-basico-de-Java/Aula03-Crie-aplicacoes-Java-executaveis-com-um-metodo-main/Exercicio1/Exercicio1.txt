@@ -1,0 +1,3 @@
+O método main não pode devolver int nem Void. Ele também deve ser público e só receber um argumento: um array (ou varargs) de String. Portanto:
+
+public static void main(String... args)
