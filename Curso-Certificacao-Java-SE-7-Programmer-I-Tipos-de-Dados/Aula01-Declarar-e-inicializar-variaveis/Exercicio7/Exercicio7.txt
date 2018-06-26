@@ -1,0 +1,1 @@
+instanceOf não é palavra reservada: note a letra maiúscula no meio dela. Nenhuma palavra-chave em Java possui caractere maiúsculo.
